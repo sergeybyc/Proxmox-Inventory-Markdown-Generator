@@ -1,4 +1,5 @@
 # Proxmox Inventory Markdown Generator
+![image](https://github.com/user-attachments/assets/0fba7539-68fb-4fb1-a0ae-77d89b7cfea0)
 
 Этот Bash-скрипт собирает информацию о хосте Proxmox, виртуальных машинах (VM) и контейнерах (LXC), и сохраняет результат в виде Markdown-таблицы.
 
